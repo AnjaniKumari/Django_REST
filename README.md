@@ -1,2 +1,2 @@
 # Django_REST
-Creating Django REST prject for temprature conversion
+Creating Django REST project for temprature conversion
